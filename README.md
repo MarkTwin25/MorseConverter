@@ -8,15 +8,15 @@ It can be used to convert text to morse code and vice versa
 
 ### Morse to text
 
-    ```bash
-    🚀  python main.py -M morse_to_text -V ".-"
-    ```
+```bash
+🚀  python main.py -M morse_to_text -V ".-"
+```
 
 ### Text to Morse
 
-    ```bash
-    🚀  python main.py -M text_to_morse -V "hello"
-    ```
+```bash
+🚀  python main.py -M text_to_morse -V "hello"
+```
 
 You can also use the `-h` option to get help
 
